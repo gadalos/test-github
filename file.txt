@@ -1,0 +1,4 @@
+este es un mensaje de prueba
+ en un archivo de texto
+ editado con el programa de 
+ Visual Studio Code.
